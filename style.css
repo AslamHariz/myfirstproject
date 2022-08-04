@@ -1,0 +1,137 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  font-family: "Orbitron", sans-serif;
+  background-color: #f5f5f5;
+}
+
+.container {
+  float: left;
+  margin-left: 40px;
+  margin-top: 25px;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  margin-left: 450px;
+  margin-top: -35px;
+  margin-bottom: auto;
+  padding: 0;
+  list-style-type: none;
+  color: #1f1f1f;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.list-item {
+  margin-right: 50px;
+  color: #1f1f1f;
+}
+
+.button-group {
+  margin-left: 1290px;
+  margin-top: -40px;
+  display: flex;
+}
+
+button.nav-button {
+  font-family: "Poppins";
+  font-size: 20px;
+  text-indent: 20px;
+  margin-left: 10px;
+  border-width: 2.5px;
+  border-radius: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 30px;
+}
+
+.square {
+  margin-left: 217px;
+  margin-top: 437px;
+}
+
+span.globe {
+  display: flex;
+  margin-top: -777px;
+  margin-left: 802px;
+}
+
+span.star {
+  display: flex;
+  margin-left: 1375px;
+  margin-top: -732px;
+}
+
+span.star1 {
+  display: flex;
+  margin-left: 700px;
+  margin-top: 560px;
+}
+
+.Image {
+  margin-top: -1px;
+}
+
+.hero-container-right {
+  margin-top: -577px;
+  margin-left: 50%;
+}
+
+h1.hero-heading {
+  text-align: center;
+  font-size: 50px;
+}
+
+p.hero-description {
+  font-family: "Poppins";
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 77px;
+}
+
+.button {
+  text-align: center;
+  padding-top: 83px;
+}
+
+button.button-email {
+  border-width: 2.5px;
+  border-radius: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 15px;
+}
+
+button.button-join {
+  border-width: 1px;
+  border-radius: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 15px;
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+.contact {
+  text-align: center;
+  padding-top: 69px;
+}
+
+h4.contact-heading {
+  font-family: "Poppins";
+  font-size: 20px;
+}
